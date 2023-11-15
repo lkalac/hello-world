@@ -16,3 +16,7 @@ Ovdje ce biti upute vezane za objavu sadrzaja repozutorija
 # Test datoteka
 
 [Poveznica na test.md datoteku](test.md)
+
+# Kolaboracija
+
+Ovdje kolaboriraju dva studenta.
