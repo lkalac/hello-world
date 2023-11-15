@@ -20,3 +20,14 @@ Ovdje ce biti upute vezane za objavu sadrzaja repozutorija
 # Kolaboracija
 
 Ovdje kolaboriraju dva studenta.
+
+# Naslov prijekta
+Ovo je naslov projekta
+
+## Opis projekta
+
+Ovdje ide opis projektra
+
+### Upute korisniku 
+
+Ovdje idu upute korisniku
