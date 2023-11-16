@@ -12,7 +12,7 @@ Objaviti projekt koristeći GitHub Pages.
 Za više informacija o Gitu i GitHubu, posjetite GitHub Docs.
 
 ### Pogledajte našu stranicu!
-Projekt je živ i dostupan za pregled na: lkalac.github.io/hello-world
+Projekt je živ i dostupan za pregled na: [lkalac.github.io/hello-world]
 
 Ova stranica će se ažurirati kako projekt napreduje. Povremeno se vratite kako biste vidjeli najnovije promjene i dodatke.
 
